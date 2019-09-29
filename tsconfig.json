@@ -1,0 +1,23 @@
+{
+  "include": ["src"],
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "jsx": "react",
+    "noUnusedLocals": false,
+    "noImplicitAny": true
+  }
+}
