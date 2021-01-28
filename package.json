@@ -81,7 +81,7 @@
     "@types/react": "^16.9.3",
     "@types/react-dom": "^16.9.1",
     "css-loader": "^3.2.0",
-    "electron": "7.0.0-beta.5",
+    "electron": "9.4.0",
     "node-loader": "^0.6.0",
     "source-map-loader": "^0.2.4",
     "style-loader": "^1.0.0",
